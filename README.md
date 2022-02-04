@@ -6,7 +6,7 @@
 </p>
 
 ---
-
+              
 ### Languages and Tools used:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -27,7 +27,16 @@
 <br />
 
 ---
+<div align = "center">
+<a href="https://github.com/AmiShaaaa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushanand09&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/AmiShaaaa">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushanand09&show_icons=true&theme=tokyonight&hide_border=true" alt="Ayush's github stats"/>
+</a>
+</div>
 
+---
 ### Connect with me:
 <a href="https://www.linkedin.com/in/ayush-anand-238305204/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
