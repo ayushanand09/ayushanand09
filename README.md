@@ -28,15 +28,16 @@
 
 ---
 <div align = "center">
-<a href="https://github.com/AmiShaaaa">
+<a href="https://github.com/ayushanand09">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushanand09&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/AmiShaaaa">
+<a href="https://github.com/ayushanand09">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushanand09&show_icons=true&theme=tokyonight&hide_border=true" alt="Ayush's github stats"/>
 </a>
 </div>
 
 ---
+
 ### Connect with me:
 <a href="https://www.linkedin.com/in/ayush-anand-238305204/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
@@ -48,4 +49,7 @@
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
 </a>
 <br/>
-<br />
+
+---
+## Followers
+<a href="https://github.com/ayushanand09?tab=followers"><img src="https://img.shields.io/github/followers/ayushanand09?label=Followers&style=social" alt="GitHub Badge"></a>
