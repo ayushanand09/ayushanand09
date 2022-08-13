@@ -51,5 +51,5 @@
 <br/>
 
 ---
-## Followers
+### Followers:
 <a href="https://github.com/ayushanand09?tab=followers"><img src="https://img.shields.io/github/followers/ayushanand09?label=Followers&style=social" alt="GitHub Badge"></a>
