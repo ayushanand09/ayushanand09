@@ -1,4 +1,4 @@
-##  <h1 align="center">Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ,I'm [Ayush!](https://ayushanand09.github.io) 
+##  <h1 align="center">Hey,I'm [Ayush!](https://ayushanand09.github.io) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"> 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ayushanand09&label=Profile%20views&color=0e75b6&style=flat" alt="ayushanand09" /></p>
 
 <br />
