@@ -3,7 +3,7 @@
 
 <br />
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=A+final+year+undergraduate+student+at+Jaypee+Institute+Of+Information+Technology;Pursuing+Computer+Science+Engineering;Web+Developer&font=Fira%20Code&center=true&width=1100&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=B.Tech+graduate+student+from+Jaypee+Institute+Of+Information+Technology;Web+Developer;QA+(Quality+Assurance);Automation+Tester;&font=Fira%20Code&center=true&width=1100&height=50">
 </p>
 
 ## 💻 Tech Stack:
@@ -19,6 +19,8 @@
 
 
 ### Frameworks, Platforms & Libraries:
+![Selenium](https://img.shields.io/badge/selenium-%23323330.svg?style=for-the-badge&logo=selenium&logoColor=%23F7DF1E)
+![Pytest](https://img.shields.io/badge/pytest-%231572B6.svg?style=for-the-badge&logo=pytest&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -40,7 +42,7 @@
 <a href="https://www.linkedin.com/in/ayush-anand-238305204/">
   <img align="left" width="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  />
 </a>
-<a href="mailto:ayush.anandcallingu@gmail.com">
+<a href="mailto:anand@gmail.com">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 <a href="https://leetcode.com/user7972eW/">
@@ -63,7 +65,6 @@
 </div>
 
 <br/>
-
 
 ## 🏆 GitHub Trophies
 <div align="center">
